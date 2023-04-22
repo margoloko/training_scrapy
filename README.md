@@ -1,3 +1,3 @@
-### training_scrapy
+training_scrapy
 
-## Изучение фреймворк Scrapy
+## Learning the Scrapy framework
